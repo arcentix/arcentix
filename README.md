@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Asif Rahman</h1>
+- 🌱 I’m currently learning **ReactJS**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifrahman18&label=profile&color=0e75b6&style=flat" alt="asifrahman18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifrahman18" alt="asifrahman18" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifrahman18" alt="asifrahman18" /></a> </p>-->
 
-- 🌱 I’m currently learning **ReactJS**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
