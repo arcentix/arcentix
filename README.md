@@ -30,13 +30,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifrahman18&" alt="asifrahman18" /></p>
 
 
-<!--START_SECTION:waka-->
-<img
-  src="https://github.com/asifrahman18/asifrahman18/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
-<!--END_SECTION:waka-->
-
 
 <!--
 **asifrahman18/asifrahman18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
