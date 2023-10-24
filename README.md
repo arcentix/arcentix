@@ -32,7 +32,7 @@
 
 <!--START_SECTION:waka-->
 <img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  src="https://github.com/asifrahman18/asifrahman18/blob/main/images/stat.svg"
   alt="Avinal WakaTime Activity"
 />
 <!--END_SECTION:waka-->
