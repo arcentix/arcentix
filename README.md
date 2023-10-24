@@ -6,7 +6,7 @@
 
 - 📄 Know about my experiences [HTML, CSS, ReactJS, NextJS](HTML, CSS, ReactJS, NextJS)
 
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifrahman18&label=profile&color=590eb4&style=plastic" alt="asifrahman18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=asifrahman18&label=profile&color=590eb4&style=plastic" alt="asifrahman18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifrahman18" alt="asifrahman18" /></a> </p>
 
@@ -29,6 +29,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifrahman18&" alt="asifrahman18" /></p>
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!--
