@@ -29,6 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifrahman18&" alt="asifrahman18" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifrahman18&layout=pie)](https://github.com/asifrahman18/github-readme-stats)
 
 
 <!--
