@@ -4,6 +4,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asifrahman18&label=profile&color=590eb4&style=plastic" alt="asifrahman18" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/018b577b-9d8a-4c7b-a94f-9f886d7aa49e.svg)](https://wakatime.com/@018b577b-9d8a-4c7b-a94f-9f886d7aa49e)
+
 <!--
 - 🌱 I’m currently learning **ReactJS**
 
