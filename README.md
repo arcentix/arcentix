@@ -26,7 +26,9 @@
 </p>
 -->
 
-<a href=""><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=asifrahman18&theme=algolia&show_icons=true&hide_border=true"></a>
+
+<a href=""><img src="https://github-readme-stats-git-master-rahmans-projects-e8788f7d.vercel.app//api/top-langs/?username=asifrahman18&theme=algolia&show_icons=true&hide_border=true"></a>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifrahman18&show_icons=true&locale=en" alt="asifrahman18" /></p>
 <a href="http://www.github.com/asifrahman18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asifrahman18&stroke=ffffff&background=181824&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
