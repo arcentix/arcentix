@@ -10,6 +10,6 @@
 <a href=""><img src="https://github-readme-stats-eight-indol-61.vercel.app/api/top-langs/?username=asifrahman18&theme=algolia&show_icons=true&hide_border=true"></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifrahman18&show_icons=true&locale=en" alt="asifrahman18" /></p>
-<a href="http://www.github.com/asifrahman18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asifrahman18&stroke=ffffff&background=181824&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- <a href="http://www.github.com/asifrahman18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asifrahman18&stroke=ffffff&background=181824&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=A184&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="rahman :: Wakatime Stats" />
