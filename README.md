@@ -11,6 +11,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifrahman18&show_icons=true&locale=en" alt="asifrahman18" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=asifrahman18)](https://git.io/streak-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=A184&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="rahman :: Wakatime Stats" />
